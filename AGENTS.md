@@ -68,3 +68,8 @@ Required disposition: `OPEN` until independently proven by immutable evidence.
 Only declare **RELEASE GATES VERIFIED — REVIEW LIVE EVIDENCE** when all 7 gates have accepted independent evidence and the final live-operation gate is verified. The workbook's clearance formula is a tracking control, not a substitute for human/operational review.
 
 **Documentation of these instructions is not completion of the gates.** Signed execution evidence must identify the implementing agent only for work actually done.
+
+
+## Specialist execution assignment (31 October 2026)
+
+Read and follow [docs/AGENT_EXECUTION.md](docs/AGENT_EXECUTION.md) for this repository's assigned ChatGPT/Grok/Gemini lead, independent reviewer, exact numbered completion gates, evidence handling and closure condition. **The existing owner ban on adding/running tests remains controlling.** Agent assignment is a plan until the external agent is actually dispatched; a documentation change alone is not execution or approval.
